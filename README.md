@@ -1,6 +1,7 @@
-# Hello, folks! I am Furkan Haydari <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### I am Furkan Haydari
 
-
+![](readme.gif)
 
 - 🔭 I’m currently working on Java, Python, Test Automation, Cyber Security.
 - 🌱 I’m currently learning Backend Development, Software Testing Tools, Penetration Testing Tools.
