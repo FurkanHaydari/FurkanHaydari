@@ -4,7 +4,7 @@
 ![](readme.gif)
 
 - 🔭 I’m currently working on Django, Node.js.
-- 🌱 I’m currently learning React, React Native.
+- 🌱 I’m currently learning Solidity, React, React Native.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/furkanhaydari/)  :office:
   
 
