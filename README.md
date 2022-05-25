@@ -3,9 +3,8 @@
 
 ![](readme.gif)
 
-- 🔭 I’m currently working on Test Automation, Cyber Security.
-- 🌱 I’m currently learning Backend Development, Software Testing Tools, Penetration Testing Tools.
-- 🤔 I’m looking for help with Backend Development, Penetration Testing.
+- 🔭 I’m currently working on Django, Node.js.
+- 🌱 I’m currently learning React, React Native.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/furkanhaydari/)  :office:
   
 
