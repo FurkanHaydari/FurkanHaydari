@@ -1,7 +1,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=FurkanHaydari"/>
  <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?color=00D115&center=true&size=22&lines=I%27m+Furkan.;Web+Developer.;Mostly+Backend+Technologies.;Fallow+the+white+rabbit.;">
+      <img src="https://readme-typing-svg.herokuapp.com/?color=00D115&center=true&size=22&lines=I%27m+Furkan.;Software+Engineer.;Fallow+the+white+rabbit.;">
     </a>
   </h1>
    <br>
@@ -9,10 +9,8 @@
 
 ```py
 About Me = [
-    "I'm software developer",
-    "Experienced in C, Python, JavaScript, Java",
-    "And Django, NodeJS, Bootstrap, HTML/CSS",
-    "I’m currently learning DevOps, React",
+    "I'm software engineer",
+    "Experienced in Embedded Linux, C, Python, JavaScript",
     "I like to work at night !!"
 ]
 ```
