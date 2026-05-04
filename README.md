@@ -1,5 +1,4 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=FurkanHaydari"/>
-<img align="right" src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License: MIT" />
  <h1 align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com/?color=00D115&center=true&size=22&lines=I%27m+Furkan.;Software+Engineer.;Fallow+the+white+rabbit.;">
@@ -7,24 +6,6 @@
   </h1>
    <br>
   <p align="left">
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/furkanhaydari/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:nomorerotting@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-
-<p align="center">
-  <a href="https://github.com/sponsors/FurkanHaydari">
-    <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
-  </a>
-  <a href="https://www.patreon.com/AntiBrainRot/membership">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
-  </a>
-</p>
 
 ```py
 About_Me = {
@@ -93,4 +74,20 @@ About_Me = {
     </div>
 <br><br>
 
-
+<h2 align="center"> Connect & Support </h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/furkanhaydari/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nomorerotting@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/sponsors/FurkanHaydari">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+  </a>
+  <a href="https://www.patreon.com/AntiBrainRot/membership">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
+  </a>
+</p>
