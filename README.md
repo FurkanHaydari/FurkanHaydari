@@ -7,6 +7,12 @@
    <br>
   <p align="left">
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/furkanhaydari" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
 ```py
 About_Me = {
     "Role": "Software Engineer",
@@ -15,15 +21,32 @@ About_Me = {
 }
 ```
 
-<h2 align="center"> 🕵️‍♂️ Featured Project: Number Detective </h2>
-<p align="center">
-  A modern, noir-themed cognitive puzzle game built natively for Android using Kotlin, Jetpack Compose, and Clean Architecture.
-</p>
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.brainfocus.numberdetective">
-    <img alt="Get it on Google Play" src="https://img.shields.io/badge/Google_Play-Available_Now-00D115?style=for-the-badge&logo=google-play&logoColor=white"/>
-  </a>
-</p>
+<h2 align="center"> 🚀 Featured Projects </h2>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Number Detective</h3>
+      <p align="center">A modern, noir-themed cognitive puzzle game built natively for Android.</p>
+      <p align="center"><i>Kotlin, Jetpack Compose, Clean Architecture</i></p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.brainfocus.numberdetective">
+          <img alt="Get it on Google Play" src="https://img.shields.io/badge/Google_Play-Available_Now-00D115?style=for-the-badge&logo=google-play&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ Distributed Config Hub</h3>
+      <p align="center">An enterprise-grade, zero-downtime distributed configuration management system.</p>
+      <p align="center"><i>.NET 10, CQRS, MediatR, Clean Architecture</i></p>
+      <p align="center">
+        <a href="https://github.com/FurkanHaydari/distributed-config-hub">
+          <img alt="View Source" src="https://img.shields.io/badge/GitHub-View_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="center"> Simulation Stats </h2>
