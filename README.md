@@ -8,8 +8,11 @@
   <p align="left">
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/furkanhaydari" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  <a href="https://github.com/sponsors/FurkanHaydari">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+  </a>
+  <a href="https://www.patreon.com/AntiBrainRot/membership">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
   </a>
 </p>
 
