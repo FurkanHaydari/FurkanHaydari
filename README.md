@@ -28,7 +28,7 @@ About_Me = {
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">📱 Number Detective</h3>
       <p align="center">A modern, noir-themed cognitive puzzle game built natively for Android.</p>
       <p align="center"><i>Kotlin, Jetpack Compose, Clean Architecture</i></p>
@@ -38,12 +38,22 @@ About_Me = {
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">⚙️ Distributed Config Hub</h3>
       <p align="center">An enterprise-grade, zero-downtime distributed configuration management system.</p>
       <p align="center"><i>.NET 10, CQRS, MediatR, Clean Architecture</i></p>
       <p align="center">
         <a href="https://github.com/FurkanHaydari/distributed-config-hub">
+          <img alt="View Source" src="https://img.shields.io/badge/GitHub-View_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">⚡ Mini Redis</h3>
+      <p align="center">A high-performance in-memory database utilizing AVL trees and custom TCP/IP socket programming.</p>
+      <p align="center"><i>C, Sockets, Docker, Python (Client)</i></p>
+      <p align="center">
+        <a href="https://github.com/FurkanHaydari/mini-redis">
           <img alt="View Source" src="https://img.shields.io/badge/GitHub-View_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
