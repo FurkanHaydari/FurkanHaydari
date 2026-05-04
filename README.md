@@ -7,6 +7,15 @@
    <br>
   <p align="left">
 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/furkanhaydari/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:nomorerotting@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
 <p align="center">
   <a href="https://github.com/sponsors/FurkanHaydari">
     <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
@@ -47,7 +56,7 @@ About_Me = {
       <p align="center">An enterprise-grade, zero-downtime distributed configuration management system.</p>
       <p align="center"><i>.NET 10, CQRS, MediatR, Clean Architecture</i></p>
       <p align="center">
-        <a href="https://github.com/FurkanHaydari/distributed-config-hub">
+        <a href="https://github.com/FurkanHaydari/DistributedConfigHub.Net">
           <img alt="View Source" src="https://img.shields.io/badge/GitHub-View_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
