@@ -36,6 +36,10 @@ About_Me = {
         <a href="https://play.google.com/store/apps/details?id=com.brainfocus.numberdetective">
           <img alt="Get it on Google Play" src="https://img.shields.io/badge/Google_Play-Available_Now-00D115?style=for-the-badge&logo=google-play&logoColor=white"/>
         </a>
+        <br><br>
+        <a href="https://github.com/FurkanHaydari/AntiBrainRot">
+          <img alt="View Source" src="https://img.shields.io/badge/GitHub-View_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
       </p>
     </td>
     <td width="33%" valign="top">
