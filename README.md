@@ -8,13 +8,22 @@
   <p align="left">
 
 ```py
-About Me = [
-    "I'm software engineer",
-    "Experienced in Embedded Linux, C, Python, JavaScript",
-    "I like to work at night !!"
-]
+About_Me = {
+    "Role": "Software Engineer",
+    "Tech_Stack": ["Kotlin", "Android (Jetpack Compose)", "C# / .NET", "Embedded Linux", "Python", "C"],
+    "Fact": "I like to work at night !!"
+}
 ```
 
+<h2 align="center"> 🕵️‍♂️ Featured Project: Number Detective </h2>
+<p align="center">
+  A modern, noir-themed cognitive puzzle game built natively for Android using Kotlin, Jetpack Compose, and Clean Architecture.
+</p>
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.brainfocus.numberdetective">
+    <img alt="Get it on Google Play" src="https://img.shields.io/badge/Google_Play-Available_Now-00D115?style=for-the-badge&logo=google-play&logoColor=white"/>
+  </a>
+</p>
 
 
 <h2 align="center"> Simulation Stats </h2>
